@@ -1,6 +1,6 @@
 {
   "name": "@isvend/coord-transform",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "百度坐标系 (BD-09) 、 火星坐标系 (GCJ-02)、WSG84坐标系互转",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
