@@ -21,5 +21,8 @@
   "homepage": "https://github.com/gee1k/coord-transform#readme",
   "devDependencies": {
     "typescript": "^5.1.6"
+  },
+  "engines": {
+    "node": ">=16.0.0"
   }
 }
