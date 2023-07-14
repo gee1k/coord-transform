@@ -6,7 +6,11 @@
 ### 安装
 
 ```bash
+// npm
 npm install @isvend/coord-transform
+
+// pnpm
+pnpm add @isvend/coord-transform
 ```
 
 ### 使用
