@@ -1,0 +1,25 @@
+{
+  "name": "@isvend/coord-transform",
+  "version": "0.0.9",
+  "description": "百度坐标系 (BD-09) 、 火星坐标系 (GCJ-02)、WSG84坐标系互转",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gee1k/coord-transform.git"
+  },
+  "keywords": ["coord-transform", "coord", "transform", "baidu", "gaode", "bd09", "gcj02", "wgs84"],
+  "files": ["dist", "LICENSE", "README.md", "package.json"],
+  "author": "Svend <svend.jin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gee1k/coord-transform/issues"
+  },
+  "homepage": "https://github.com/gee1k/coord-transform#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
