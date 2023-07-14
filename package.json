@@ -5,8 +5,7 @@
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
-    "build": "tsc",
-    "release": "np"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -35,17 +34,9 @@
   },
   "homepage": "https://github.com/gee1k/coord-transform#readme",
   "devDependencies": {
-    "typescript": "^5.1.6",
-    "np": "*"
+    "typescript": "^5.1.6"
   },
   "engines": {
     "node": ">=16.0.0"
-  },
-  "np": {
-    "yarn": false,
-    "cleanup": false,
-    "tests": false,
-    "branch": "main",
-    "contents": "dist"
   }
 }
